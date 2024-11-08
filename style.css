@@ -1,0 +1,14 @@
+body{
+    background-image : url("https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2024/08/beabadoobee_TIHTM-divulg.jpg"); /* The image used */
+   
+   
+   
+    background-position: lower; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
+  
+  table,th,td{
+    border:1px solid rgb(247, 254, 255);
+  }
+  
